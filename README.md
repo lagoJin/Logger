@@ -33,7 +33,7 @@ class AppApplication :Application(){
 
 And use
 ~~~~
-Logger.v("heelo")
+Logger.v("Hello World")
 ~~~~
 
 ## License
