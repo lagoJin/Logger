@@ -21,7 +21,8 @@ implementation 'com.github.lagoJin:Logger:0.1.0'
 
 
 Initialize
-~~~~
+
+```kotlin
 class AppApplication :Application(){
 
  override fun onCreate() {
@@ -29,12 +30,13 @@ class AppApplication :Application(){
         super.onCreate()
     }
 }
-~~~~
+```
+
 
 And use
-~~~~
+```kotlin
 Logger.v("Hello World")
-~~~~
+```
 
 ## License
 
